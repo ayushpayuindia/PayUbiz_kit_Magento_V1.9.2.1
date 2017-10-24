@@ -2,10 +2,6 @@
 /**
  * Data.php
  *
- * Copyright (c) 2011-2017 PayU India
- * 
- * 
- * 
  * This payment module is free software; you can redistribute it and/or modify
  * it under the terms of the GNU Lesser General Public License as published
  * by the Free Software Foundation; either version 3 of the License, or (at
@@ -16,7 +12,7 @@
  * or FITNESS FOR A PARTICULAR PURPOSE. See the GNU Lesser General Public
  * License for more details.
  * 
- * @author     Ayush Mittal
+ * @author     Payubiz
  * @copyright  2011-2015 PayU India
  * @license    http://www.opensource.org/licenses/lgpl-license.php LGPL
  * @link       http://www.payu.in
